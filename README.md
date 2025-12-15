@@ -1,7 +1,3 @@
-Here’s a more **polished, professional, and resume/portfolio-ready version** of your content. You can use this for **GitHub, LinkedIn, or project documentation** 👇
-
----
-
 ## 🚗 BMW Website Clone
 
 A **pixel-perfect static clone** of the official **BMW website**, built using **HTML5 and modern CSS**.
